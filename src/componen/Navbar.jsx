@@ -33,7 +33,7 @@ const Navbar = () => {
 
   return (
     <div className="navbar container fixed z-10  flex h-24 max-w-[1240px] items-center justify-between gap-5 border-y-0 p-5  shadow-md sm:max-w-full md:relative md:mix-blend-normal  md:backdrop-blur-0 lg:fixed lg:px-[6.5rem] lg:py-6 lg:opacity-100 lg:shadow-lg lg:brightness-[120%] lg:backdrop-blur-md">
-      <h1 className="rounded-[20px] bg-basecolor px-5 py-[6px] text-[12px] font-bold text-green-400 md:rounded-none md:p-0 md:text-3xl lg:bg-transparent ">React App</h1>
+      <h1 className="rounded-[20px] bg-basecolor px-5 py-[6px] text-[16px] font-bold text-green-400 md:rounded-none md:p-0 md:text-3xl lg:bg-transparent ">React App</h1>
       <ul className=" hidden font-sans text-[0.95rem] font-bold text-slate-300 md:flex">
         <li className="px-2 hover:cursor-pointer" onClick={keHome}>
           Home
