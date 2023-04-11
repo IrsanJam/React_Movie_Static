@@ -19,7 +19,7 @@ function Hero() {
             <span className="lg:text-4xl"></span>
           </p>
         </div>
-        <p className="px-20 py-2 text-center text-[11px] lg:block  lg:text-[15px]">Help anybody learn web programming and solving the problems, the motivation just for fun </p>
+        <p className="px-20 py-2 text-center text-[11px] lg:block lg: text-slate-400 lg:text-[9px]">Help anybody learn web programming and solving the problems, the motivation just for fun </p>
         <button className="mt-3 rounded-xl bg-primary px-5 py-2 text-[10px] font-bold text-black lg:px-14 lg:py-2 lg:text-[14px] ">Get Started</button>
       </div>
     </div>
