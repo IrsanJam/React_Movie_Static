@@ -12,7 +12,7 @@ function Hero() {
         <p className="pt-[28%] text-center text-[10px] font-bold text-primary sm:pt-[32%] md:pt-0 md:text-4xl lg:text-4xl">
           Growing <span className="text-4xl">Everywhere</span>
         </p>
-        <h1 className="pt-[5px] text-[15px] font-bold text-basefont lg:p-2 lg:text-7xl">Grow With Ours</h1>
+        <h1 className="pt-[5px] text-[15px] font-bold text-basefont lg:p-2 lg:text-7xl">Grow With Our</h1>
         <div>
           <p className="text-[18px] font-bold  lg:text-[25px]">
             Fast, Flexible for Learn<span> </span>
