@@ -1,7 +1,6 @@
 import React from "react";
 import Gambar from "../componen/1.jpg";
 import Gambars from "../componen/3.jpg";
-import Typed from "react-typed";
 
 function Hero() {
   return (
@@ -17,9 +16,7 @@ function Hero() {
         <div>
           <p className="text-[18px] font-bold  lg:text-[25px]">
             Fast, Flexible for Learn<span> </span>
-            <span className="lg:text-4xl">
-              <Typed className="duration-500 ease-in-out" strings={[" Html", " CSS", " Javascript", " SASS", " TailwindCSS", " Bootstrap", " Git & Github", " React Js"]} typeSpeed={90} backSpeed={90} loop></Typed>
-            </span>
+            <span className="lg:text-4xl"></span>
           </p>
         </div>
         <p className="px-20 py-2 text-center text-[11px] lg:block  lg:text-[15px]">Help anybody learn web programming and solving the problems, the motivation just for fun </p>
