@@ -8,7 +8,7 @@ const Navbar = () => {
     value(!nav);
   };
 
-  window.onscroll = function () {
+  window.onscroll = () => {
     let nav = document.body.querySelector(".navbar");
     let bHome = document.body.querySelector(".back");
     let kepala = nav.offsetTop;
