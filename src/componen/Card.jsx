@@ -13,9 +13,9 @@ function Card() {
           <AiFillShop size={60} className="mx-auto -mt-[2rem] h-10 w-8 pt-3 lg:h-14 lg:w-14 lg:pt-0 "></AiFillShop>
           <h3 className="text-[1rem] font-bold">Package Start</h3>
           <h1 className="mx-12 border-b-[1px] border-slate-400 pb-3 text-4xl font-bold lg:py-3 lg:text-[2rem]">$39</h1>
-          <p className="mx-12 border-b-[1px] border-slate-400 py-[4px] text-[8px] lg:text-sm">Learn HTML</p>
-          <p className="mx-12 border-b-[1px] border-slate-400 py-[4px] text-[8px] lg:text-sm">Learn CSS</p>
-          <p className="mx-12 border-b-[1px] border-slate-400 py-[4px] text-[8px] lg:text-sm">Learn Javascript</p>
+          <p className="mx-12 border-b-[1px] border-slate-400 py-[4px] text-[8px] lg:font-bold lg:text-[11px]">Learn HTML</p>
+          <p className="mx-12 border-b-[1px] border-slate-400 py-[4px] text-[8px] lg:font-bold lg:text-[11px]">Learn CSS</p>
+          <p className="mx-12 border-b-[1px] border-slate-400 py-[4px] text-[8px] lg:font-bold lg:text-[11px]">Learn Javascript</p>
           <button className=" mb-2 mt-2 rounded-xl  bg-primary px-5 py-2 text-[10px] font-bold text-black hover:scale-105 group-hover:bg-orange-500 lg:mt-5 lg:px-14 lg:py-2 lg:text-[14px] ">Get Started</button>
         </div>
 
@@ -23,9 +23,9 @@ function Card() {
           <AiFillAlipayCircle size={60} className=" mx-auto -mt-[2rem] h-10 w-8 pt-3 lg:h-14 lg:w-14 lg:pt-0 "></AiFillAlipayCircle>
           <h3 className="text-[1rem] font-bold">Package Middle</h3>
           <h1 className="mx-12 border-b-[1px] border-slate-400 pb-3 text-4xl font-bold lg:py-3 lg:text-[2rem]">$69</h1>
-          <p className="mx-12 border-b-[1px] border-slate-400 py-[4px] text-[8px] lg:text-sm">Learn Git</p>
-          <p className="mx-12 border-b-[1px] border-slate-400 py-[4px] text-[8px] lg:text-sm">Learn TailwindCSS</p>
-          <p className="mx-12 border-b-[1px] border-slate-400 py-[4px] text-[8px] lg:text-sm">Learn Bootstrap</p>
+          <p className="mx-12 border-b-[1px] border-slate-400 py-[4px] text-[8px] lg:font-bold lg:text-[11px]">Learn Git</p>
+          <p className="mx-12 border-b-[1px] border-slate-400 py-[4px] text-[8px] lg:font-bold lg:text-[11px]">Learn TailwindCSS</p>
+          <p className="mx-12 border-b-[1px] border-slate-400 py-[4px] text-[8px] lg:font-bold lg:text-[11px]">Learn Bootstrap</p>
           <button className=" mb-2 mt-2 rounded-xl  bg-primary px-5 py-2 text-[10px] font-bold text-black hover:scale-105 group-hover:bg-orange-500 lg:mt-5 lg:px-14 lg:py-2 lg:text-[14px] ">Get Started</button>
         </div>
 
@@ -33,9 +33,9 @@ function Card() {
           <AiFillAmazonSquare size={60} className="mx-auto -mt-[2rem] h-10 w-8 pt-3 lg:h-14 lg:w-14 lg:pt-0 "></AiFillAmazonSquare>
           <h3 className="text-[1rem] font-bold">Package Finishing</h3>
           <h1 className="mx-12 border-b-[1px] border-slate-400 pb-3 text-4xl font-bold lg:py-3 lg:text-[2rem]">$99</h1>
-          <p className="mx-12 border-b-[1px] border-slate-400 py-[4px] text-[8px] lg:text-sm">Learn Rest API</p>
-          <p className="mx-12 border-b-[1px] border-slate-400 py-[4px] text-[8px] lg:text-sm">Learn React JS</p>
-          <p className="mx-12 border-b-[1px] border-slate-400 py-[4px] text-[8px] lg:text-sm">Learn Deployment</p>
+          <p className="mx-12 border-b-[1px] border-slate-400 py-[4px] text-[8px] lg:font-bold lg:text-[11px]">Learn Rest API</p>
+          <p className="mx-12 border-b-[1px] border-slate-400 py-[4px] text-[8px] lg:font-bold lg:text-[11px]">Learn React JS</p>
+          <p className="mx-12 border-b-[1px] border-slate-400 py-[4px] text-[8px] lg:font-bold lg:text-[11px]">Learn Deployment</p>
           <button className=" mb-2 mt-2 rounded-xl  bg-primary px-5 py-2 text-[10px] font-bold text-black hover:scale-105 group-hover:bg-orange-500 lg:mt-5 lg:px-14 lg:py-2 lg:text-[14px] ">Get Started</button>
         </div>
       </div>
